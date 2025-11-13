@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GestionGastos_MartinAyusoLidia</string>
+
+    <string name="lbApp">Gestión de gastos creada por Lidia :)</string>
+    <string name="lbUser">Usuario</string>
+    <string name="lbPass">Contraseña</string>
+    <string name="btnEntrar">Entrar</string>
+</resources>
