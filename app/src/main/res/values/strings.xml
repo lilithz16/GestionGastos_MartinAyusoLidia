@@ -5,4 +5,6 @@
     <string name="lbUser">Usuario</string>
     <string name="lbPass">Contraseña</string>
     <string name="btnEntrar">Entrar</string>
+    <string name="bienvenida">Bienvenido</string>
+    <string name="dinero">$$$</string>
 </resources>
