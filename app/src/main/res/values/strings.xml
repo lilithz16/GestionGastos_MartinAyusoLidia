@@ -7,4 +7,8 @@
     <string name="btnEntrar">Entrar</string>
     <string name="bienvenida">Bienvenido</string>
     <string name="dinero">$$$</string>
+
+    <string name="btnHistorial">Ver historial</string>
+    <string name="btnVolverArea">Volver</string>
+    <string name="btnTfr">Transferencia</string>
 </resources>
