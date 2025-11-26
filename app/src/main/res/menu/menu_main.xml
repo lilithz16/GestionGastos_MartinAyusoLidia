@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--
+    <item
+        android:id="@+id/opPerfil"
+        android:title="Perfil"
+        android:icon="@android:drawable/ic_menu_myprofile"       El drawable no está bien y da error
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/opAjustes"
+        android:title="Ajustes"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/opSalir"
+        android:title="Salir"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:showAsAction="never" />
+-->
+</menu>
